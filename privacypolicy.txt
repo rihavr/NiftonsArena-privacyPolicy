@@ -3,14 +3,13 @@ Privacy Policy for Niftons Arena
 CASSIA TRADE Ltd ("we", "us", "our") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, and share information when you use our multiplayer VR game called Niftons Arena ("the game").
 
 Personal Information We Collect
-When you use the game, we collect the following personal information from you:
+When you use the game, we get the following personal information from you:
 
     Oculus username: This is used to show your name during the multiplayer match.
-    IP address: This is used for the backend services and crash reporting.
     Device information: This is used for the backend services and crash reporting.
 
 How We Use Your Personal Information
-We do not store any personal information on our servers. The personal information we collect is used by our third-party service providers, including Meta, Photon Engine, and Unity Gaming Services, to provide the game and related services. We do not share your personal information with any other third parties, except as required by law.
+We do not store any personal information on our servers. The personal information is only used by our third-party service providers, including Meta, Photon Engine, and Unity Gaming Services, when you are using the game, to provide the game and related services. We do not share your personal information with any other third parties, except as required by law.
 
 Security and Protection of User Data
 We take reasonable measures to protect your personal information from unauthorized access, use, and disclosure. However, no security measures are perfect and we cannot guarantee the security of your personal information.
