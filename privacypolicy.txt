@@ -5,7 +5,7 @@ CASSIA TRADE Ltd ("we", "us", "our") is committed to protecting your privacy. Th
 Personal Information We Collect
 When you use the game, we get the following personal information from you:
 
-    Oculus username: This is used to show your name during the multiplayer match.
+    Oculus/PICO username: This is used to show your name during the multiplayer match.
     Device information: This is used for the backend services and crash reporting.
 
 How We Use Your Personal Information
@@ -21,7 +21,7 @@ Legal Bases for Processing User Data and User Rights
 The legal bases for processing your personal information may include your consent or our legitimate interests in providing and improving the game and related services. You have the right to request access to and rectification or erasure of your personal information, as well as the right to object to or restrict certain processing of your personal information. You also have the right to lodge a complaint with a supervisory authority.
 
 Cookies and Tracking Technologies
-We do not use cookies on our website or in the game. However, cookies and other tracking technologies may be used by our third-party service providers, including Oculus, Photon Engine, and Unity Gaming Services, as part of their SDKs. Please refer to their respective privacy policies for more information.
+We do not use cookies on our website or in the game. However, cookies and other tracking technologies may be used by our third-party service providers, including Oculus, PICO, Photon Engine, and Unity Gaming Services, as part of their SDKs. Please refer to their respective privacy policies for more information.
 
 Changes to this Privacy Policy
 We may update this Privacy Policy from time to time. The updated Privacy Policy will be posted on our website and will be effective as of the date of posting.
