@@ -6,12 +6,12 @@ Personal Information I Collect
 
 When you use the game, I collect the following personal information from you:
 
-Oculus/PICO username: This is displayed as your name during the multiplayer match.
+Oculus/PICO username: This is displayed as your name during the multiplayer match and also stored on AWS servers for the purpose of verifying in-app purchases and managing credits.
 Device information: This is used for backend services and crash reporting.
 User ID and list of friends: This is used for sending App Invites within the app. User ID is also stored on AWS servers for the purpose of verifying in-app purchases.
-How I Use Your Personal Information
 
-I do not store your personal information on my servers, except for User ID stored in AWS DynamoDB for the purpose of verifying in-app purchases. Your personal information is only used by my third-party service providers, including Meta, Photon Engine, AWS, and Unity Gaming Services, when you are using the game, to provide the game and related services. I do not share your personal information with any other third parties, except as required by law.
+How I Use Your Personal Information
+I do not store your personal information on my servers, except for User ID and username stored in AWS DynamoDB for the purpose of verifying in-app purchases and managing credits. Your personal information is only used by my third-party service providers, including Meta, Photon Engine, AWS, and Unity Gaming Services, when you are using the game, to provide the game and related services. I do not share your personal information with any other third parties, except as required by law.
 
 Security and Protection of User Data
 
@@ -19,7 +19,7 @@ I take reasonable measures to protect your personal information from unauthorize
 
 Access and Management of Personal Information
 
-Since I do not store any personal information, there is no account for you to manage. If you want to uninstall the game, you can do so at any time.
+Since I do not store any personal information, there is no account for you to manage. If you want to uninstall the game, you can do so at any time. If you want your UserId and username to be removed from the AWS database, contact me.
 
 Legal Bases for Processing User Data and User Rights
 
